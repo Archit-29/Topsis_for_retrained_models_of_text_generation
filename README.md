@@ -19,5 +19,5 @@ To run the code, make sure the following libraries are installed:
 - `pandas`
 - `matplotlib`
 
-<img src="https://github.com/ayu-shiirathore/Topsis-for-pretrained-models-of-text-generation/blob/main/Screenshot%202025-02-02%20212220.png" alt="Sample Image" />
-<img src="https://github.com/ayu-shiirathore/Topsis-for-pretrained-models-of-text-generation/blob/main/Screenshot%202025-02-02%20212201.png" alt="Sample Image" />
+<img src='https://github.com/Archit-29/Topsis_for_retrained_models_of_text_generation/blob/main/Screenshot%202025-02-02%20232204.png' alt="Sample Image" />
+<img src="https://github.com/Archit-29/Topsis_for_retrained_models_of_text_generation/blob/main/ranking.png" alt="Sample Image" />
